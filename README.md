@@ -4,7 +4,13 @@
 
 This is a set of 12 tasks developed with C++, all related with data structures and algorithms, from simple lists to heaps and trees, going also through sorting and searching algorithms.
 
-For more info see task definition document for each lab:
+### Used Technologies:
+
++ C++
++ Eclipse
++ Git
+
+### For more info see task definition document for each lab:
 
 + [Warming up](https://github.com/misrraimsp/datastructuresLab/tree/master/root/Lab_1_Figures)
 + [Queue and List](https://github.com/misrraimsp/datastructuresLab/blob/master/root/Lab_2_Queue_and_List)
@@ -18,3 +24,5 @@ For more info see task definition document for each lab:
 + [Graph Representation](https://github.com/misrraimsp/datastructuresLab/tree/master/root/Lab_10_Graph_Representation)
 + [Breadth-Depth First Search](https://github.com/misrraimsp/datastructuresLab/tree/master/root/Lab_11_Breadth-Depth_First_Search)
 + [Single Source Shortest Path Dijkstra](https://github.com/misrraimsp/datastructuresLab/tree/master/root/Lab_12_Single_Source_Shortest_Path_Dijkstra)
+
+
